@@ -31,11 +31,6 @@ body {
     border-radius: 20px;
 }
 
-.box1 {
-    border: 5px solid #98e719;
-    border-radius: 20px;
-}
-
 #form button {
     font-size: 25px;
     font-weight: 800;
@@ -59,9 +54,4 @@ label {
     font-size: 20px;
     padding: 20px;
     cursor: pointer;
-}
-
-#posts {
-    padding: 10px;
-    font-size: 20px;
 }
